@@ -1,6 +1,7 @@
 .newcolumns > div {
   display: flex;
   flex-direction: column;
+  background-color: aquamarine;
 }
 
 .newcolumns img {
